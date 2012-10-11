@@ -1,3 +1,2 @@
-Komunikacja cz�owiek-komputer
-sassad
+Komunikacja człowiek-komputer
 ======
